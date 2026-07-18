@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Doshan Lal Sahu</h1>
+<h1 align="center">Hi 👋, I'm Doshan Lal</h1>
 <h3 align="center">B.Tech Electrical Engineering Student @ NIT Raipur | 2nd Year</h3>
 
 <p align="center">
